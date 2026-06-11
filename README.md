@@ -1,4 +1,4 @@
-# 👩🏼‍💻 Maria Clara 
+# Maria Clara 
 
 
 Sou técnica em Desenvolvimento de Sistemas pelo SENAI e atualmente curso Ciência da Computação pela UNIP. Estou sempre em busca de expandir meus conhecimentos, desenvolver novas habilidades e explorar diferentes áreas da computação, com especial interesse em desenvolvimento Back-end. Aqui você encontrará projetos acadêmicos, estudos e iniciativas pessoais que refletem minha jornada de aprendizado e crescimento na área de tecnologia. 🚀
