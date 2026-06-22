@@ -79,7 +79,6 @@ Sou técnica em Desenvolvimento de Sistemas pelo SENAI e atualmente curso Ciênc
 <img 
     align="left" 
     alt="Bash" 
-    tittle="Bash" 
     width="30px" 
     style="padding-right:10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
