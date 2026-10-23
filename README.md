@@ -1,12 +1,6 @@
 # Maria Clara 
 
-I'm a Systems Development Technician graduated from SENAI and currently pursuing a degree in Computer Science at UNIP.
-
-I'm interested in software development, particularly Back-end development, and enjoy exploring how applications work behind the scenes, from APIs and business logic to database integration.
-
-Here on GitHub, you'll find academic projects, personal experiments, and practical work that reflect my learning process and growth as a developer.
-
-I'm always looking for opportunities to learn, collaborate, and build solutions that turn ideas into working software
+I'm a Systems Development Technician graduated from SENAI and currently pursuing a degree in Computer Science at UNIP. I'm interested in software development, particularly Back-end development, and enjoy exploring how applications work behind the scenes, from APIs and business logic to database integration. Here on GitHub, you'll find academic projects, personal experiments, and practical work that reflect my learning process and growth as a developer. I'm always looking for opportunities to learn, collaborate, and build solutions that turn ideas into working software.
 
 
 ### 💻 Languages and Tools
@@ -74,7 +68,9 @@ I'm always looking for opportunities to learn, collaborate, and build solutions 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
 
-br/
+<br/>
+<br/>
+
 
 ### 📊 GitHub Statistics
 
