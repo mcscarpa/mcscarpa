@@ -1,12 +1,15 @@
 # Maria Clara 
 
+I'm a Systems Development Technician graduated from SENAI and currently pursuing a degree in Computer Science at UNIP.
 
-Sou técnica em Desenvolvimento de Sistemas pelo SENAI e atualmente curso Ciência da Computação pela UNIP. Estou sempre em busca de expandir meus conhecimentos, desenvolver novas habilidades e explorar diferentes áreas da computação, com especial interesse em desenvolvimento Back-end. Aqui você encontrará projetos acadêmicos, estudos e iniciativas pessoais que refletem minha jornada de aprendizado e crescimento na área de tecnologia. 
+I'm interested in software development, particularly Back-end development, and enjoy exploring how applications work behind the scenes, from APIs and business logic to database integration.
+
+Here on GitHub, you'll find academic projects, personal experiments, and practical work that reflect my learning process and growth as a developer.
+
+I'm always looking for opportunities to learn, collaborate, and build solutions that turn ideas into working software
 
 
----
-
-### 💻 Linguagens e Ferramentas
+### 💻 Languages and Tools
 
 
 <img 
