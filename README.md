@@ -47,14 +47,6 @@ Sou técnica em Desenvolvimento de Sistemas pelo SENAI e atualmente curso Ciênc
 
 <img 
     align="left" 
-    alt="Bash" 
-    width="30px" 
-    style="padding-right:10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="SQL" 
     title="SQL" 
     width="30px" 
@@ -71,5 +63,12 @@ Sou técnica em Desenvolvimento de Sistemas pelo SENAI e atualmente curso Ciênc
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
 
+<img 
+    align="left" 
+    alt="Bash" 
+    width="30px" 
+    style="padding-right:10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
 
 
