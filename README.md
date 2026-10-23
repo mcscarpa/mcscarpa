@@ -70,8 +70,6 @@ Sou técnica em Desenvolvimento de Sistemas pelo SENAI e atualmente curso Ciênc
     style="padding-right:10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
-```
 
-<br />
 
 
